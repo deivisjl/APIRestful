@@ -1,0 +1,1090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Htt",
+				"HttpKernel〔namespace〕"
+			],
+			[
+				"Route",
+				"Route::get"
+			],
+			[
+				"col-md-1",
+				"div.col-md-1"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pers",
+				"persona_id"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"l",
+				"length〔variable〕"
+			],
+			[
+				"re",
+				"removeClass〔function〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"Nombre",
+				"Nombre_Empresa"
+			],
+			[
+				"Stoc",
+				"StockMin"
+			],
+			[
+				"Nom",
+				"Nombre_Categoria"
+			],
+			[
+				"deta",
+				"$detalle2〔variable〕"
+			],
+			[
+				"di",
+				"$diferencia〔variable〕"
+			],
+			[
+				"resultQue",
+				"$resultQueryProd〔variable〕"
+			],
+			[
+				"registro",
+				"$registro3〔variable〕"
+			],
+			[
+				"reg",
+				"$registro〔variable〕"
+			],
+			[
+				"regist",
+				"$registroAbono〔variable〕"
+			],
+			[
+				"query",
+				"$queryAbono〔variable〕"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"jso",
+				"json_info〔variable〕"
+			],
+			[
+				"result",
+				"resultUsuario"
+			],
+			[
+				"mysq",
+				"mysqli〔class〕"
+			],
+			[
+				"resultU",
+				"$resultUsuario〔variable〕"
+			],
+			[
+				"resultIns",
+				"resultInsertFactura"
+			],
+			[
+				"resulLast",
+				"$resultLastIdDeudor〔variable〕"
+			],
+			[
+				"else",
+				"else〔keyword〕"
+			],
+			[
+				"resultInsert",
+				"$resultInsert〔variable〕"
+			],
+			[
+				"resul",
+				"$resultDetalle〔variable〕"
+			],
+			[
+				"r",
+				"rollback〔function〕"
+			],
+			[
+				"a",
+				"$arrayId〔variable〕"
+			],
+			[
+				"sql",
+				"$sqlInsert〔variable〕"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"form",
+				"div.form"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"nuev",
+				"$nuevaPass〔variable〕"
+			],
+			[
+				"user",
+				"$userCurrent〔variable〕"
+			],
+			[
+				"C",
+				"Contraseña"
+			],
+			[
+				"col-md-",
+				"col-md-8"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"colo",
+				"color: 〔property〕"
+			],
+			[
+				"ke",
+				"keyup〔function〕"
+			],
+			[
+				"pa",
+				"pass2"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"row",
+				"div.row"
+			],
+			[
+				"col",
+				"col-md-2"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"js",
+				"json_info.data"
+			],
+			[
+				"json",
+				"json_info"
+			],
+			[
+				"sc",
+				"scripts"
+			],
+			[
+				"c",
+				"cantidad"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"J",
+				"$Json_data〔variable〕"
+			],
+			[
+				"arr",
+				"$arrayDate〔variable〕"
+			],
+			[
+				"pars",
+				"parseInt〔function〕"
+			],
+			[
+				"Producto",
+				"Producto_Id"
+			],
+			[
+				"ca",
+				"categoria"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"queryI",
+				"$queryItems〔variable〕"
+			],
+			[
+				"tex",
+				"tex-center"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"Pre",
+				"PrecioSugerido"
+			],
+			[
+				"ver",
+				"verificarResultado〔function〕"
+			],
+			[
+				"ve",
+				"verificarResultado"
+			],
+			[
+				"li",
+				"limpiar_modal"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"label",
+				"label-succes"
+			],
+			[
+				"ti",
+				"$tipoLabel〔variable〕"
+			],
+			[
+				"class",
+				"class=\"row"
+			],
+			[
+				"regi",
+				"$registro2〔variable〕"
+			],
+			[
+				"set",
+				"set_resp"
+			],
+			[
+				"reus",
+				"$resultCliente〔variable〕"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"fa",
+				"fadeOut〔function〕"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"G",
+				"GuardarCliente"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"hi",
+				"hide〔function〕"
+			],
+			[
+				"mysqli_nu",
+				"mysqli_num_rows〔function〕"
+			],
+			[
+				"queryC",
+				"$queryCliente〔variable〕"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"res",
+				"$resultado〔variable〕"
+			],
+			[
+				"get",
+				"getCliente.php"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"btn-",
+				"btn-group"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ruta",
+				"$rutaanterior〔variable〕"
+			],
+			[
+				"al",
+				"album_id"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Ge",
+				"GestorImagenes〔namespace〕"
+			],
+			[
+				"S",
+				"Support〔namespace〕"
+			],
+			[
+				"H",
+				"Http"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"A",
+				"Auth〔class〕"
+			],
+			[
+				"contras",
+				"$contrasena〔variable〕"
+			],
+			[
+				"I",
+				"IniciarSesionRequest"
+			],
+			[
+				"D",
+				"DB::statement('SET"
+			],
+			[
+				"error",
+				"error_reporting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "APIRestful.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 510,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 1713,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Homestead.yaml",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/APIRestful",
+		"/C/APIRestful/.vagrant",
+		"/C/APIRestful/.vagrant/machines",
+		"/C/APIRestful/.vagrant/machines/apirestful",
+		"/C/APIRestful/.vagrant/machines/apirestful/virtualbox",
+		"/C/APIRestful/vendor",
+		"/C/APIRestful/vendor/laravel"
+	],
+	"file_history":
+	[
+		"/C/APIRestful/Vagrantfile",
+		"/C/Users/SAMSUNG/Desktop/metadata.json",
+		"/C/APIRestful/vendor/laravel/homestead/Vagrantfile",
+		"/C/APIRestful/metadata.json",
+		"/C/wamp64/www/api.appproductos.com/v2/index.php",
+		"/C/wamp64/www/api.appproductos.com/v2/.htaccess",
+		"/C/wamp64/www/api.appproductos.com/v1/index.php",
+		"/C/wamp64/www/api.appproductos.com/v1/controllers/ProductsController.php",
+		"/C/wamp64/www/api.appproductos.com/v1/.htaccess",
+		"/C/wamp64/www/carrito/resources/views/admin/users/index.blade.php",
+		"/C/wamp64/www/dt54-master/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+		"/C/wamp64/www/dt54-master/resources/views/eloquent/index.blade.php",
+		"/C/wamp64/www/dt54-master/resources/views/eloquent/partials/menu.blade.php",
+		"/C/wamp64/www/dt54-master/resources/views/home.blade.php",
+		"/C/wamp64/www/dt54-master/resources/views/eloquent/tables/posts.blade.php",
+		"/C/wamp64/www/dt54-master/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/dt54-master/resources/views/layouts/partials/nav.blade.php",
+		"/C/wamp64/www/dt54-master/routes/web.php",
+		"/C/wamp64/www/dt54-master/vendor/symfony/http-kernel/HttpCache/HttpCache.php",
+		"/C/wamp64/www/dt54-master/vendor/yajra/laravel-datatables-oracle/src/Datatables.php",
+		"/C/wamp64/www/dt54-master/vendor/yajra/laravel-datatables-oracle/src/DatatablesServiceProvider.php",
+		"/C/wamp64/www/sae2/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/C/wamp64/www/sae2/resources/views/none/lang_1/en/passwords.php",
+		"/C/wamp64/www/sae2/resources/views/none/lang_1/en/validation.php",
+		"/C/wamp64/www/sae2/config/auth.php",
+		"/C/wamp64/www/sae/config/app.php",
+		"/C/wamp64/www/sae/app/Http/routes.php",
+		"/C/wamp64/www/sae/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/sae/app/Http/Controllers/Auth/AuthController.php",
+		"/C/wamp64/www/sae/composer.json",
+		"/C/wamp64/www/sae/config/auth.php",
+		"/C/wamp64/www/sae/config/compile.php",
+		"/C/wamp64/www/sae/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/sae/app/Exceptions/Handler.php",
+		"/C/wamp64/www/sae/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/sae/database/migrations/2017_06_15_133842_creatTablaRolAsignado.php",
+		"/C/wamp64/www/sae/database/migrations/2017_06_15_133749_crearTablaRol.php",
+		"/C/wamp64/www/sae/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/sae/app/Http/Controllers/WelcomeController.php",
+		"/C/wamp64/www/sae/resources/views/welcome.blade.php",
+		"/C/wamp64/www/sae/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/C/wamp64/www/sae/storage/framework/views/20228a1fded2b4f369818c8e4aca1094",
+		"/C/wamp64/www/sae/bootstrap/autoload.php",
+		"/C/wamp64/www/sae/bootstrap/cache/.gitignore",
+		"/C/wamp64/www/adminlte-laravel-master/public/index.php",
+		"/C/wamp64/www/adminlte-laravel-master/vendor/composer/autoload_classmap.php",
+		"/C/wamp64/www/adminlte-laravel-master/public/mix-manifest.json",
+		"/C/wamp64/www/carrito/public/js/main.js",
+		"/C/wamp64/www/carrito/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/carrito/resources/views/auth/login.blade.php",
+		"/C/wamp64/www/carrito/app/Http/Controllers/Auth/PasswordController.php",
+		"/C/wamp64/www/pruebaGit/index.php",
+		"/C/wamp64/www/pruebaGit/page3.php",
+		"/C/wamp64/www/pruebaGit/page2.php",
+		"/C/wamp64/www/api.saludmock.com/.htaccess",
+		"/C/wamp64/www/libreria/resources/views/app.blade.php",
+		"/C/wamp64/www/libreria/config/app.php",
+		"/C/wamp64/www/libreria/app/Http/Controllers/ProveedorController.php",
+		"/C/wamp64/www/libreria/public/scripts",
+		"/C/wamp64/www/libreria/app/Http/Controllers/PersonaController.php",
+		"/C/wamp64/www/libreria/resources/views/proveedor/agregar.blade.php",
+		"/C/wamp64/www/libreria/resources/views/proveedor/index.blade.php",
+		"/C/wamp64/www/libreria/resources/views/home.blade.php",
+		"/C/wamp64/www/libreria/database/migrations/2017_02_27_133313_CrearTablaProveedor.php",
+		"/C/wamp64/www/libreria/app/Proveedor.php",
+		"/C/wamp64/www/libreria/database/migrations/2017_02_20_141231_crearTablaPersona.php",
+		"/C/wamp64/www/libreria/app/Http/routes.php",
+		"/C/wamp64/www/libreria/database/migrations/2017_02_20_141355_crearTablaRol.php",
+		"/C/wamp64/www/libreria/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/libreria/database/seeds/UsuarioSeeder.php",
+		"/C/wamp64/www/libreria/app/Persona.php",
+		"/C/wamp64/www/libreriatecuaco/reporteStock.php",
+		"/C/wamp64/www/libreriatecuaco/reportePDF.php",
+		"/C/wamp64/www/libreriatecuaco/producto.php",
+		"/C/wamp64/www/libreriatecuaco/inventario.php",
+		"/C/wamp64/www/libreriatecuaco/controllers/getReporteStock.php",
+		"/C/wamp64/www/libreriatecuaco/reportes.php",
+		"/C/wamp64/www/libreriatecuaco/controllers/getReporteVenta.php",
+		"/C/wamp64/www/libreriatecuaco/reportePruebaVenta.php",
+		"/C/wamp64/www/libreriatecuaco/cliente.php",
+		"/C/wamp64/www/libreriatecuaco/assets/scripts/venta.js",
+		"/C/wamp64/www/gestorfotos/app/Http/Middleware/Authenticate.php",
+		"/C/wamp64/www/libreria/resources/views/errors/404.blade.php",
+		"/C/wamp64/www/libreria/app/Http/Controllers/Auth/AuthController.php",
+		"/C/wamp64/www/libreria/app/Http/Controllers/UsuarioController.php",
+		"/C/wamp64/www/libreria/app/Http/Controllers/RolController.php",
+		"/C/wamp64/www/libreria/app/Http/Controllers/WelcomeController.php",
+		"/C/wamp64/www/libreria/app/Rol.php",
+		"/C/wamp64/www/libreria/app/Usuario.php",
+		"/C/wamp64/www/libreria/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/libreria/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/wamp64/www/libreria/resources/views/auth/login.blade.php",
+		"/C/wamp64/www/libreria/resources/views/welcome.blade.php",
+		"/C/wamp64/www/libreria/proveedor.php",
+		"/C/wamp64/www/libreria/producto.php",
+		"/C/wamp64/www/libreria/cliente.php",
+		"/C/wamp64/www/libreria/venta.php",
+		"/C/wamp64/www/libreria/compra.php",
+		"/C/wamp64/www/libreria/controllers/getVenta.php",
+		"/C/wamp64/www/libreria/controllers/getCompra.php",
+		"/C/wamp64/www/libreria/assets/scripts/venta.js",
+		"/C/wamp64/www/libreria/assets/scripts/compra.js",
+		"/C/wamp64/www/libreria/login.php",
+		"/C/wamp64/www/libreria/pruebas.php",
+		"/C/wamp64/www/libreria/logincss/ini.js",
+		"/C/wamp64/www/libreria/controllers/authentication.php",
+		"/C/wamp64/www/libreria/reporteDeudor.php",
+		"/C/wamp64/www/libreria/logincss/css/style.css",
+		"/C/wamp64/www/libreria/index.php",
+		"/C/wamp64/www/libreria/controllers/Backup.php",
+		"/C/wamp64/www/libreria/usuarios.php",
+		"/C/wamp64/www/libreria/controllers/getUser.php",
+		"/C/wamp64/www/libreria/actualizarProveedor.php",
+		"/C/wamp64/www/libreria/controllers/DeletegetListCliente.php",
+		"/C/wamp64/www/libreria/reporteVenta.php",
+		"/C/wamp64/www/libreria/reporteGrafico.php",
+		"/C/wamp64/www/libreria/reporteCompra.php",
+		"/C/wamp64/www/libreria/agregarCliente.php",
+		"/C/wamp64/www/libreria/actualizarCliente.php",
+		"/C/wamp64/www/libreria/agregarUsuario.php",
+		"/C/wamp64/www/libreria/agregarTipo.php",
+		"/C/wamp64/www/libreria/agregarMarca.php",
+		"/C/wamp64/www/libreria/agregarCategoria.php",
+		"/C/wamp64/www/libreria/agregarCantidad.php",
+		"/C/wamp64/www/libreria/agregarAtributo.php",
+		"/C/wamp64/www/libreria/actualizarUsuario.php",
+		"/C/wamp64/www/libreria/actualizarProducto.php",
+		"/C/wamp64/www/libreria/agregarProducto.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"posts-table",
+			"trans",
+			"inner",
+			"sorting_1",
+			"Fecha",
+			"Saldo",
+			"Monto",
+			"Cliente",
+			"Factura",
+			"ganancia",
+			"cantidad",
+			"venta",
+			"compra",
+			"td",
+			"registro3",
+			"registro2",
+			"registrotabla",
+			"registro2",
+			"resultUsuario",
+			"BaseUrl",
+			"baseUrl",
+			"BaseUrl",
+			"baseUrl",
+			"insertProv",
+			"campo_valido",
+			"has-error",
+			"_mensaje",
+			"validacion-mensaje",
+			"password",
+			"span",
+			"bar",
+			"div",
+			"millions",
+			"25",
+			"message",
+			"set_resp",
+			"factura",
+			"enlace",
+			"conex",
+			"apellido",
+			"nombre",
+			"span",
+			"label",
+			"data-dismiss",
+			"ProveedorResponse",
+			"queryProveedor",
+			"codigo",
+			"direccion",
+			"apellido",
+			"\");\n",
+			"insertProv",
+			"a",
+			"button",
+			"numerico",
+			"Nombres",
+			"insertProv",
+			"_length",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"show",
+			"Show",
+			"entries",
+			"post_person_form_submit",
+			"tb_remove",
+			"ajaxSubmit",
+			"submit",
+			"tb_show",
+			"document.ready",
+			"$document",
+			"TB_iframe",
+			"tb_show",
+			"modal",
+			"_reload",
+			"service",
+			"4386a1",
+			"207cca",
+			"#207cca",
+			"207cca",
+			"1e5799",
+			"BaseUrl",
+			"baseUrl",
+			"insertAtributo",
+			"insertMarca",
+			"MarcaResponse",
+			"marca",
+			"frm_marca",
+			"insertCantidad",
+			"insertMarca",
+			"MarcaResponse",
+			"marca",
+			"frm_marca",
+			"insertCategoria",
+			"insertMarca",
+			"MarcaResponse",
+			"marca",
+			"frm_marca",
+			"insertMarca",
+			"marca",
+			"insertMarca",
+			"MarcaResponse",
+			"frm_categoria",
+			"insertProv",
+			"ProveedorResponse",
+			"categoria",
+			"form_group",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "APIRestful.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Homestead.yaml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "APIRestful.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"config\\app.php"
+			],
+			[
+				"home",
+				"src\\stubs\\HomeController.stub"
+			],
+			[
+				"index.",
+				"public\\plugins\\index.html"
+			],
+			[
+				"autoload",
+				"vendor\\composer\\autoload_classmap.php"
+			],
+			[
+				"autol",
+				"vendor\\autoload.php"
+			],
+			[
+				"main.",
+				"public\\js\\main.js"
+			],
+			[
+				"config/",
+				"config\\app.php"
+			],
+			[
+				"boot",
+				"public\\css\\bootstrap.css"
+			],
+			[
+				"throwable",
+				"vendor\\symfony\\debug\\Symfony\\Component\\Debug\\Exception\\FatalThrowableError.php"
+			],
+			[
+				"fatalthrowableerro",
+				"vendor\\symfony\\debug\\Symfony\\Component\\Debug\\Exception\\FatalThrowableError.php"
+			],
+			[
+				"handel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
